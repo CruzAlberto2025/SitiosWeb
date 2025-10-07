@@ -1,0 +1,103 @@
+#cabecera{
+		/*border:solid;*/
+		margin-top:20px;
+		margin-left:200px;
+		margin-right:200px;
+		margin-bottom:0px; 
+		padding:20px;
+		background-color:#2ECCFA;
+		box-shadow: rgb(7,6,11) 5px 5px 25px ;
+		border-radius:50px;
+		background:-webkit-linear-gradient(top,#ffffff,#006699,brown,violet,darkblue);
+		
+		/*outline: 2px dashed #000; parte del codigo que nos sirve para hacer lineas puntiadas estilo "recortes"
+		outline-offset:15px;*/ 
+}
+
+#cabecera h1{
+	color:blue;
+	font-family:Comic Sans MS;
+        font-size:200%;
+}
+
+#barra{
+	box-shadow: rgb(7,5,11) 5px 5px 25px;
+	background:-webkit-linear-gradient(top,blue,orange,red,blue);
+	border-radius: 150px;
+	/*border:solid;*/
+	margin-top:15px;
+	margin-left:50px;
+	margin-right:50px;
+	padding:50px;
+        font-size:100%;
+}
+
+#cuerpo{
+	background-color:#2ECCF,blue;
+	box-shadow:rgb(700,600,1100) 5px 5px 20px;
+	background:-webkit-linear-gradient(top,#ffffff,#006699);
+	border-radius:20px;
+	/*border: solid;*/
+	margin-top:24px;
+	margin-right:420px; 
+	margin-left:415px;
+	padding-bottom:10px;
+}
+
+#lateral{
+	box-shadow: rgb(7,6,11) 5px 5px 25px;
+	background:-webkit-linear-gradient(top,#ffffff,#006699);
+	border-radius:20px;
+	/*border: solid;*/
+	margin-top:-450px;
+	margin-left:980px;
+	margin-right:55px;
+	padding-bottom:10px;
+}
+
+#lateral2{
+	box-shadow: rgb(7,6,11) 5px 5px 25px;
+	background: -webkit-linear-gradient(top,#ffffff,#006699);
+	border-radius: 15px;
+	/*border: solid;*/
+	margin-top: 15px;
+	margin-left:980px;
+	margin-right:55px;
+	padding-bottom:10px;
+}
+        
+ #lateral3{
+       	box-shadow: rgb(7,6,11) 5px 5px 25px;
+	background: -webkit-linear-gradient(top,#ffffff,#006699);
+	border-radius: 20px;
+	/*border: solid;*/
+	margin-top:-455px;
+	margin-left:60px;
+	margin-right: 980px;
+	padding-bottom:10px;
+}
+
+ #lateral4{
+       	box-shadow: rgb(7,6,11) 5px 5px 25px;
+	background: -webkit-linear-gradient(top,#ffffff,#006699);
+	border-radius: 15px;
+	/*border: solid;*/
+	margin-top: 20px;
+	margin-left: 60px;
+	margin-right:980px;
+	padding-bottom:10px;
+}
+
+#pie{
+	box-shadow: rgb(7,6,11) 5px 5px 25px;
+	background:-webkit-linear-gradient(top,#ffffff,#006699,violet);
+	border-radius:30px;
+	margin-top:20px;
+	margin-left:200px;
+	margin-right:200px;
+	padding-bottom: 10px;
+}
+
+#fondo{
+		background-color: purple;
+	}
